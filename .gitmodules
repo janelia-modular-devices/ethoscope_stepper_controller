@@ -1,3 +1,6 @@
 [submodule "generate_modular_device_documentation"]
 	path = generate_modular_device_documentation
 	url = https://github.com/janelia-modular-devices/generate_modular_device_documentation.git
+[submodule "hardware/ethoscope_stepper_controller_3x3"]
+	path = hardware/ethoscope_stepper_controller_3x3
+	url = https://github.com/janelia-kicad/ethoscope_stepper_controller_3x3.git
